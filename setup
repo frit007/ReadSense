@@ -1,0 +1,9 @@
+python -m pip install -U pip setuptools
+
+pip install flask-socketio
+
+pip install tobii_research
+
+python -m pip install gevent 
+python -m pip install gevent-websocket
+python -m pip install pyautogui
