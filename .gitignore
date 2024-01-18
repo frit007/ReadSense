@@ -3,3 +3,6 @@ tobiilsl.py
 tobiiresearch/**
 public/cert.pem
 public/key.pem
+__pycache__/**
+license_key**
+a/**
